@@ -1,0 +1,2 @@
+# specs
+pods private specs
