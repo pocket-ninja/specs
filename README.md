@@ -1,2 +1,2 @@
 # specs
-pods private specs
+The Pocket Ninja CocoaPods Private Specs
